@@ -36,4 +36,4 @@ I specialize in building modern, responsive, and maintainable web applications u
 
 ### Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram)](https://t.me/blabla)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram)](https://t.me/Ilyar_96)
