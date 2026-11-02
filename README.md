@@ -1,19 +1,39 @@
-## Hi there 👋, I'm a Frontend developer.
+# Hi, I'm Ilyar
 
-My name is Ilyar, I'm 28 years old.
+### Frontend Developer
 
-My commercial development experience is more than 2 years.
+Frontend developer with 6 years of development experience, including 3 years in commercial development and 3 years of freelance work.
+
+I specialize in building modern, responsive, and maintainable web applications using React, Next.js, and TypeScript.
 
 ---
 
-### Languages and Tools
+### Tech Stack
 
-![JS](https://img.shields.io/badge/-JS-000?style=for-the-badge&logo=javascript&logoColor=FFC83D)
-![TS](https://img.shields.io/badge/-TS-000?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61dafb)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&logoColor=764abc)
-![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&logoColor=f14e32)
+**Core**
 
-### Links to me
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/Sass-000?style=flat-square&logo=sass)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=3390EC)](https://t.me/iljar96)
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000?style=flat-square&logo=redux)
+![RTK Query](https://img.shields.io/badge/RTK_Query-000?style=flat-square&logo=redux)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+![WordPress](https://img.shields.io/badge/WordPress-000?style=flat-square&logo=wordpress)
+![OpenCart](https://img.shields.io/badge/OpenCart-000?style=flat-square&logo=opencart)
+![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&logo=astro)
+
+---
+
+### Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram)](https://t.me/blabla)
